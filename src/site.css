@@ -1,0 +1,99 @@
+body
+{
+font-family:"Times New Roman";
+font-size:20px;
+background-color:#ADD6FF;
+color:#000000;
+padding:3px;
+}
+#main{
+padding:5px;
+padding-left:15px;
+padding-right:15px;
+background-color:#DBB8FF;
+border-radius:5px 5px 5px 5px;
+}
+#name{
+background-color:#FFE6F0;
+border radius:15px 15px 15px 15px;
+border-bottom:3px dotted #FF0066;
+font-family:Trajan Pro;
+font-size:40px;
+color:#CC99FF;
+}
+h1{
+font-family:Georgia;
+border-bottom:3px solid #cc9980;
+color:#FF0066;
+font-size:30px;
+}
+form#login{
+border:1px solid green;
+border-radius:5 5 5 5;
+margin-left:500px;
+margin-right:500px;
+color:#000000;
+}
+center{
+font-family:"Castellar";
+font-size:40px;
+color:#3D0099;
+}
+li{
+border:2px solid black;
+}
+p{
+font-size:23px;
+}
+p#start{
+font-size:26px;
+font-family:Times New Roman;
+}
+form{
+border:1px solid black;
+border-radius:5 5 5 5;
+margin-left:500px;
+margin-right:500px;
+color:#000000;
+}
+form#f1{
+border:1px solid #E0CCFF;
+border-radius:5 5 5 5;
+}
+form#f2{
+border-radius:5 5 5 5;
+}
+table{
+width:100%;
+}
+table,th,td{
+border:1px solid blue;
+border-collapse:collapse;
+padding:5px;
+}
+th{
+text-align:left;
+}
+table tr:nth-child(odd){
+background-color:#f1f1f1;
+}
+table tr:nth-child(even){
+background-color:#ffffff;
+}
+ul#menu{
+margin-bottom:10px;
+}
+ul#menu li{
+display:inline;
+margin-right:3px;
+}
+ul#menu li a{
+background-color:#330080;
+padding:10px 20px;
+color:pink;
+border-radius:4px 4px 0 0;
+}
+ul#menu li a:hover{
+color:white;
+background-color:black;
+}
