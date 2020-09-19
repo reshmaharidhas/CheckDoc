@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CheckDoc</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <color name="bg">#1975FF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="green">#19D119</color>
+    <color name="grey">#E0EBEB</color>
+    <color name="listbg">#FFE6F0</color>
+    <color name="black">#000000</color>
+    <color name="lightpink">#F0E6FF</color>
+
+    <string name="title_activity_start">Start</string>
+    <string name="kg">KG Hospital</string>
+    <string name="title_activity_hospital_list">Hospital_list</string>
+    <string name="title_activity_psg_doctors">PsgDoctors</string>
+    <string name="title_activity_kmch_doctors">KmchDoctors</string>
+    <string name="title_activity_eye_foundation">EyeFoundation</string>
+    <string name="title_activity_about_us">AboutUs</string>
+    <string name="desc">CheckDoc is a user friendly app, where it lists out details 
+        of surrounding nearby hospitals and doctors’ availability. 
+        User can also reach the hospital quick by using Google maps embedded with it</string>
+
+</resources>
